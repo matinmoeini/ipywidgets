@@ -1,7 +1,0 @@
-#!/bin/sh
-
-set -e
-
-npm install -g yarn
-
-./dev-install.sh
